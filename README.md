@@ -17,21 +17,27 @@ Design Tools: 3D CAD programs for designing the cane head and overall structure.
 Outcome: Achieved accurate fall detection and reliable GPS tracking, providing a scalable prototype for improved elderly care.
 
 **Initial Draft**
-![Initial draft](https://github.com/user-attachments/assets/1dfa151c-c66d-4e9a-8cee-dd745821ce2d)
+![Initial draft](https://github.com/user-attachments/assets/42ec4ff1-fb4e-45aa-95da-3f60cbdcaee6)
+
 
 **Final Draft**
-![Final draft](https://github.com/user-attachments/assets/3abd49f1-2ab2-437e-b57c-f77cc1ea495e)
+![Final draft](https://github.com/user-attachments/assets/5fe65773-d5e4-4aa1-a3a7-ea1a0ed21262)
+
 
 **Catia Model**
-![model Catia](https://github.com/user-attachments/assets/c8d541a8-f07c-4a88-969a-7712fdd6d165)
+![model Catia](https://github.com/user-attachments/assets/5657c143-bdd4-48d4-bfc7-92c2dc06a412)
+
 
 **Flow Chart**
-![new_flow_chart](https://github.com/user-attachments/assets/203c720a-0e93-463f-92e5-dfd24054c577)
+![new_flow_chart](https://github.com/user-attachments/assets/b5eed2fc-d205-45ba-93cd-5b32f1d4c553)
+
 
 
 **Project Report**
 [Robotic_Project___Progress_Report__2-823276-17005320492119.pdf](https://github.com/user-attachments/files/17782769/Robotic_Project___Progress_Report__2-823276-17005320492119.pdf)
 
 **Final Product and Video Illustration**
-![pic4](https://github.com/user-attachments/assets/127e65e6-afaf-4009-8794-040e8b196aa5)
-https://drive.google.com/file/d/1eQa0fQypIFVEK-A8LFhHbzWRhvuzAuRq/view?usp=sharing
+![pic4](https://github.com/user-attachments/assets/44b338a6-7d35-4929-a008-d12d406ab48d)
+![pic3](https://github.com/user-attachments/assets/adc277bc-1d4f-4ff4-881a-df80b0f8fa54)
+
+**https://drive.google.com/file/d/1eQa0fQypIFVEK-A8LFhHbzWRhvuzAuRq/view?usp=sharing**
