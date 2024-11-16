@@ -32,6 +32,7 @@ Outcome: Achieved accurate fall detection and reliable GPS tracking, providing a
 
 
 **Flow Chart**
+
 ![new_flow_chart](https://github.com/user-attachments/assets/0014e803-60cc-4022-9d92-297883a81437)
 
 
